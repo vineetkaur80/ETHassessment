@@ -12,3 +12,5 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 So, by following above steps we can create tokens using solidity on online platform like Remix IDE to implement code. After implementation we can deploy it.
 ## Authors
 Vineet Kaur
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
