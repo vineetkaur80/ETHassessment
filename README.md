@@ -10,3 +10,5 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 So, by following above steps we can create tokens using solidity on online platform like Remix IDE to implement code. After implementation we can deploy it.
+## Authors
+Vineet Kaur
